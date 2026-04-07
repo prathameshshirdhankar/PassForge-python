@@ -1,7 +1,7 @@
 # PassForge 🔐
 
 > **Passphrase → Complex Password Vault**
-> A memorable-yet-unbreakable password generator with an encrypted local vault — built by a Senior Security Engineer, powered entirely by Python's standard library + one dependency.
+> A memorable-yet-unbreakable password generator with an encrypted local vault — built by Prathamesh Shirdhankar, powered entirely by Python's standard library + one dependency.
 
 ```
   ____               ___
