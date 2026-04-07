@@ -62,24 +62,17 @@ That is the complete dependency list.
 ### Option A — Clone the repository
 
 ```bash
-git clone https://github.com/your-username/passforge.git
+git clone https://github.com/prathameshshirdhankar/passforge.git
 cd passforge
 pip install cryptography
 python passforge.py
 ```
 
-### Option B — Download the single file
+
+### Option B — Virtual environment (recommended for production use)
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/passforge/main/passforge.py
-pip install cryptography
-python passforge.py
-```
-
-### Option C — Virtual environment (recommended for production use)
-
-```bash
-git clone https://github.com/your-username/passforge.git
+git clone https://github.com/prathameshshirdhankar/passforge.git
 cd passforge
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
